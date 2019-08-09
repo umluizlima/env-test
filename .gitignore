@@ -71,3 +71,6 @@ typings/
 *.njsproj
 *.sln
 *.sw?
+
+# Firebase
+.firebase

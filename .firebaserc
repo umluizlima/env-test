@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "env-test-0819"
+  },
+  "targets": {
+    "env-test-0819": {
+      "hosting": {
+        "staging": [
+          "staging-env-test-0819"
+        ],
+        "production": [
+          "env-test-0819"
+        ]
+      }
+    }
+  }
+}
